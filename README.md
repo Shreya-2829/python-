@@ -1,2 +1,2 @@
-# python
-operators, conditional statements, loops, arrays
+# PYTHON
+[zero to hero] ⭐
