@@ -1,0 +1,19 @@
+---> What is OpenCV?
+OpenCV (Open Source Computer Vision Library) is a library (set of functions and tools) for computer vision and image processing.
+It allows computers to see, understand, and process images or videos, just like humans do with their eyes.
+
+---> What can OpenCV do?
+Some common things you can do with OpenCV:
+
+- Image processing → resize, crop, rotate, blur, sharpen images.
+- Object detection → detect faces, eyes, cars, or even custom objects.
+- Video analysis → track moving objects, count people, analyze motion.
+- OCR support → read text from images (when combined with Tesseract).
+- AI & ML integration → used in deep learning projects for preprocessing images.
+
+---> Real-world examples:
+
+Face unlock on your phone → uses OpenCV + AI.
+Self-driving cars → detect lanes, traffic lights, pedestrians using OpenCV.
+Medical imaging → analyzing X-rays or MRI scans.
+Industrial automation → checking product defects in factories.
